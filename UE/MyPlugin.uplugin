@@ -1,0 +1,25 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "0.0.1",
+	"FriendlyName": "FriendlyName",
+	"Description": "Description",
+	"Category": "Category",
+	"CreatedBy": "CreatedBy",
+	"CreatedByURL": "CreatedByURL",
+	"DocsURL": "DocsURL",
+	"MarketplaceURL": "MarketplaceURL",
+	"SupportURL": "SupportURL",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Name",
+			"Type": "Type",
+			"LoadingPhase": "LoadingPhase",
+			"PlatformDenyList": []
+		}
+	]
+}
